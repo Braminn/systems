@@ -1,0 +1,12 @@
+/* HEADER */
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #fff;
+}
+
+.header_logo {
+    width: 40%;
+    height: 40%;
+}
